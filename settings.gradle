@@ -1,0 +1,2 @@
+rootProject.name='Crud File Internal kt'
+include ':app'
